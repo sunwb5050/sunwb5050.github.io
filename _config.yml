@@ -26,9 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Wenbo Sun"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Fellow @ HK PolyU"
+  bio              : |
+    Postdoctoral Fellow <br>
+    Department of Aeronautical and Aviation Engineering <br>
+    The Hong Kong Polytechnic University <br>
   location         : "Hong Kong, China"
-  employer         : "The Hong Kong Polytechnic University"
+  employer         : "HK PolyU"
   uri              : # URL
   email            : "wbsun.sun@polyu.edu.hk" 
 
