@@ -1,3 +1,4 @@
+This is Wenbo Sun's personal website based on the Academic template.
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
