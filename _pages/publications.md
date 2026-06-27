@@ -76,3 +76,8 @@ Conference presentations
 [2] Xu, X., **Sun, W.**, Cai, T., Liu, Y., Han, X. (2018). Design of a hydraulic control unit for a two-Speed dedicated electric vehicle transmission. Presented at the *<u>2018 SAECCE SAE-China Congress & Exhibition (SAECCE)</u>*, Shanghai, China, 6-8 November 2018.
 
 [1] Jiang J., Wang S., **Sun, W.** (2017). Simulation and Optimization of Automatic Transmission Hydraulic Control Module. Presented at the *<u>2nd International Conference on Robotics and Automation Engineering (ICRAE)</u>*, Shanghai, China, 2017, pp. 243-247. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1109/ICRAE.2017.8291388)
+
+
+Delivered Technical Reports
+------
+[1] Levin, M. W., Sun, Z., Wang, S., **Sun, W.**, He, S., Suh, B., Zhao, G., Margolis, J., Zamanpour, M. (2023). Cost/Benefit Analysis of Fuel-Efficient Speed Control Using Signal Phasing and Timing (SPaT) Data: Evaluation for Future Connected Corridor Deployment. Submitted to *<u>Minnesota Department of Transportation</u>* in March 2023. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://conservancy.umn.edu/handle/11299/253980)
