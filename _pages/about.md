@@ -13,10 +13,10 @@ Dr. Wenbo Sun is a postdoctoral fellow at the Department of Aeronautical and Avi
 
 Research interests
 ======
-* Low-altitude logistics
+* Low-altitude system planning and operation
 
-* Multi-modal route optimization problems (e.g., truck-drone, crowdshipping)
+* Autonomous control (e.g., connected and autonomous vehicles, drones)
 
-* Connected and autonomous vehicles (e.g., traffic prediction, vehicle control)
+* Multi-modal route optimization problems (e.g., truck-drone, Crowdshipping)
 
 * Operational research and reinforcement learning
