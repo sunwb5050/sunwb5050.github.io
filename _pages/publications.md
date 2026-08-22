@@ -13,6 +13,10 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ------
+
+
+[10] Fei, H., **Sun, W.**, Zhang, F., Liu W.\* Optimizing mobility and charging services with shared electric autonomous vehicles, in press. 
+
 [9] **Sun, W.**, Wu, L., Zhang, F.\* (2026). An exact algorithm to solve vehicle routing problem with drones for delivery and surveillance tasks after disasters. *<u>Transportation Science</u>*, 60(1), 132-154. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://pubsonline.informs.org/doi/10.1287/trsc.2024.0987)
 
 [8] **Sun, W.**, Wu, L., Zhang, F.\* (2026). Robust optimization for truck-and-drone collaboration with travel time uncertainties. *<u>Transportation Research Part B: Methodological</u>*, 204, 103378. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.trb.2025.103378)
@@ -34,11 +38,9 @@ Journal Publications
 
 Working Papers
 ------
-[3] **Sun, W.**, Liu W.\* Facility location problem for aerial logistics services with time-varying costs.
+[2] **Sun, W.**, Liu W.\* Facility location problem for aerial logistics services with time-varying costs.
 
-[2] Li, D., **Sun, W.**, Zhang, F.\* Joint optimization of incentive and routing strategies in crowdsourced last-mile delivery.
-
-[1] Fei, H., **Sun, W.**, Zhang, F., Liu W.\* Optimizing Mobility and Charging Services with Shared Electric Autonomous Vehicles. 
+[1] Li, D., **Sun, W.**, Zhang, F.\* Joint optimization of incentive and routing strategies in crowdsourced last-mile delivery.
 
 <!-- Submitted to *<u>Transportmetrica B: Transport Dynamics</u>*, under second-round revision. -->
 
