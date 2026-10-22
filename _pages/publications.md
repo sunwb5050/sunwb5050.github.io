@@ -15,7 +15,7 @@ Journal Publications
 ------
 
 
-[10] Fei, H., **Sun, W.**, Zhang, F., Liu W.\* Optimizing mobility and charging services with shared electric autonomous vehicles, in press. 
+[10] Fei, H., **Sun, W.**, Zhang, F., Liu W.\* Optimizing mobility and charging services with shared electric autonomous vehicles.  *<u>Transportmetrica B: Transport Dynamics</u>*, 14(1). [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1080/21680566.2026.2724389)
 
 [9] **Sun, W.**, Wu, L., Zhang, F.\* (2026). An exact algorithm to solve vehicle routing problem with drones for delivery and surveillance tasks after disasters. *<u>Transportation Science</u>*, 60(1), 132-154. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://pubsonline.informs.org/doi/10.1287/trsc.2024.0987)
 

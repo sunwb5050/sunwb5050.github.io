@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+Working
+------
+
+* Postdoctoral Fellow (2025 - Present)
+  
+  Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University, Hong Kong, China
+  
+  Supervisor: [Prof. Wei Liu](https://www.polyu.edu.hk/aae/people/academic-staff/prof-liu-wei/)
+
+
 Education
 ------
 
